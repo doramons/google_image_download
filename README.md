@@ -7,7 +7,7 @@ https://ide.goorm.io/
 #### (2) 구글 이미지 다운로드 코드 복사하기
 git clone https://github.com/doramons/google_image_download
 
-cd google_images_download && python setup.py install
+cd google_image_download && python setup.py install
 
 
 
